@@ -51,25 +51,25 @@ The fundamentals of machine learning include understanding the different types o
 
 ***
 
-## Data Preprocessing
+## :data: Data Preprocessing
 Data preprocessing is the process of cleaning and preparing data for machine learning. In this section, you will learn about common preprocessing techniques such as data cleaning, feature scaling, and feature selection.
 
 ***
 
-## Learn About Different Machine Learning Algorithms
+## :study: Learn About Different Machine Learning Algorithms
 There are many different machine learning algorithms, each with their own strengths and weaknesses. In this section, you will learn about decision trees, random forests, neural networks, and other common machine learning algorithms.
 
 ***
 
-## Practice With Real-World Datasets
+## :practice: Practice With Real-World Datasets
 Practicing with real-world datasets is essential for learning machine learning. In this section, you will learn about real-world datasets and how to use them for machine learning projects. You will also find examples of machine learning projects using real-world datasets.
 
 ***
 
-## Experiment With Different Techniques
+## :experiment: Experiment With Different Techniques
 Experimenting with different techniques is essential for improving the performance of machine learning models. In this section, you will learn about common techniques such as regularization, cross-validation, and ensemble methods.
 
 ***
 
-## Keep Learning
+## :keep: Keep Learning
 Machine learning is a constantly evolving field, so it's important to stay up-to-date with the latest research and techniques.
