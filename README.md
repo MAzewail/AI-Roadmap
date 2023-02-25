@@ -1,9 +1,9 @@
 # Roadmap for Machine Learning
 This repository provides a roadmap for learning machine learning, covering topics such as programming, linear algebra, calculus, statistics, data preprocessing, machine learning algorithms, and real-world applications. Each section provides an overview of the topic, resources for learning, and examples of real-world applications.
 
-Table of Contents
-Introduction
-Basics of Programming
+## Table of Contents
+[Introduction](#Introduction)
+[Basics of Programming](#Basics-of-Programming)
 Linear Algebra and Calculus
 Statistics and Probability
 Fundamentals of Machine Learning
