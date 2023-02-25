@@ -3,7 +3,9 @@ This repository provides a roadmap for learning machine learning, covering topic
 
 ## Table of Contents
 [Introduction](#Introduction)
+
 [Basics of Programming](#Basics-of-Programming)
+
 Linear Algebra and Calculus
 Statistics and Probability
 Fundamentals of Machine Learning
