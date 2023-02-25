@@ -7,7 +7,7 @@ This repository provides a roadmap for learning machine learning, covering topic
 - [Linear Algebra and Calculus](#calling-Linear-Algebra-and-Calculus)
 - [Statistics and Probability](#book-Statistics-and-Probability)
 - [Fundamentals of Machine Learning](#robot-Fundamentals-of-Machine-Learning)
-- [Data Preprocessing](#📉-Data-Preprocessing)
+- [Data Preprocessing](#📉--Data-Preprocessing)
 - [Learn About Different Machine Learning Algorithms](#Learn-About-Different-Machine-Learning-Algorithms)
 - [Practice With Real-World Datasets](#Practice-With-Real-World-Datasets)
 - [Experiment With Different Techniques](#Experiment-With-Different-Techniques)
