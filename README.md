@@ -66,10 +66,10 @@ Practicing with real-world datasets is essential for learning machine learning. 
 
 ***
 
-## :experiment: Experiment With Different Techniques
+## 🥇 Experiment With Different Techniques
 Experimenting with different techniques is essential for improving the performance of machine learning models. In this section, you will learn about common techniques such as regularization, cross-validation, and ensemble methods.
 
 ***
 
-## :keep: Keep Learning
+## ☑️ Keep Learning
 Machine learning is a constantly evolving field, so it's important to stay up-to-date with the latest research and techniques.
