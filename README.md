@@ -4,7 +4,7 @@ This repository provides a roadmap for learning machine learning, covering topic
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Basics of Programming](#computer-Basics-of-Programming)
-- [Linear Algebra and Calculus](#:calling:-Linear-Algebra-and-Calculus)
+- [Linear Algebra and Calculus](#calling-Linear-Algebra-and-Calculus)
 - [Statistics and Probability](#Statistics-and-Probability)
 - [Fundamentals of Machine Learning](#Fundamentals-of-Machine-Learning)
 - [Data Preprocessing](#Data-Preprocessing)
