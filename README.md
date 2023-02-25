@@ -3,8 +3,8 @@ This repository provides a roadmap for learning machine learning, covering topic
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Basics of Programming](#Basics-of-Programming)
-- [Linear Algebra and Calculus](#Linear-Algebra-and-Calculus)
+- [Basics of Programming](#:computer: Basics-of-Programming)
+- [Linear Algebra and Calculus](#:calling: Linear-Algebra-and-Calculus)
 - [Statistics and Probability](#Statistics-and-Probability)
 - [Fundamentals of Machine Learning](#Fundamentals-of-Machine-Learning)
 - [Data Preprocessing](#Data-Preprocessing)
@@ -25,7 +25,7 @@ Programming is a fundamental skill for machine learning. In this section, you wi
 
 - I really recommend this [course](https://www.youtube.com/watch?v=avkSMuMHTI0&list=PLJLIYIKY1aBzR3KvoH30IZLABDs6ACPvc) to get start with Python :point_right: [python for everybody](https://www.youtube.com/watch?v=avkSMuMHTI0&list=PLJLIYIKY1aBzR3KvoH30IZLABDs6ACPvc)
 
-
+***
 
 ## :calling: Linear Algebra and Calculus
 Linear algebra and calculus are essential mathematical concepts for machine learning. In this section, you will learn the basic concepts of linear algebra, such as vectors, matrices, and dot products, as well as calculus concepts such as derivatives and gradients.
