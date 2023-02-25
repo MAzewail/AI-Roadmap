@@ -73,6 +73,8 @@ There are many different machine learning algorithms, each with their own streng
 ## ⛹️ Practice With Real-World Datasets
 Practicing with real-world datasets is essential for learning machine learning. In this section, you will learn about real-world datasets and how to use them for machine learning projects. You will also find examples of machine learning projects using real-world datasets.
 
+- Create an account on [Kaggel](https://www.kaggle.com/) and get started with
+
 ***
 
 ## 🥇 Experiment With Different Techniques
