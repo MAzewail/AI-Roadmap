@@ -41,8 +41,8 @@ check this piece of art "[3blue1brown](https://www.youtube.com/@3blue1brown/play
 ## Statistics and Probability
 Statistics and probability are important for understanding the performance of machine learning models. In this section, you will learn the basics of descriptive statistics, probability distributions, hypothesis testing, and Bayesian inference.
 
-- This is an introductory about [probability](https://www.youtube.com/watch?v=8idr1WZ1A7Q&list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp)
-- 
+- This is an introduction to [probability](https://www.youtube.com/watch?v=8idr1WZ1A7Q&list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp)
+
 ***
 
 ## Fundamentals of Machine Learning
