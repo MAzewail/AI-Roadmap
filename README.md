@@ -50,6 +50,7 @@ Statistics and probability are important for understanding the performance of ma
 The fundamentals of machine learning include understanding the different types of machine learning, such as supervised, unsupervised, and reinforcement learning. You will also learn about training and testing data, overfitting and underfitting, and evaluation metrics.
 
 - Check this [video](https://www.youtube.com/watch?v=ukzFI9rgwfU) to learn more about ML :point_right: [Machine learning basics](https://www.youtube.com/watch?v=ukzFI9rgwfU)
+- I also recommend this playlist [Machine Learning Definitions](https://www.youtube.com/playlist?list=PLuhqtP7jdD8BpW2kOdIbjLI3HpuqeoMb-)
 
 ***
 
@@ -61,7 +62,11 @@ Data preprocessing is the process of cleaning and preparing data for machine lea
 ***
 
 ## 🧮 Learn About Different Machine Learning Algorithms
-There are many different machine learning algorithms, each with their own strengths and weaknesses. In this section, you will learn about decision trees, random forests, neural networks, and other common machine learning algorithms.
+There are many different machine learning algorithms, each with their own strengths and weaknesses. In this section, you will learn about decision trees, random forests, neural networks, and other common machine learning algorithms, I really recommend this channel [Coding Lane](https://www.youtube.com/@CodingLane) for learning all different ML algorithms.
+
+- [Logistic Regression (Classification)](https://www.youtube.com/playlist?list=PLuhqtP7jdD8Chy7QIo5U0zzKP8-emLdny)
+- [Linear Regression](https://www.youtube.com/playlist?list=PLuhqtP7jdD8AFocJuxC6_Zz0HepAWL9cF)
+- [Neural Network](https://www.youtube.com/playlist?list=PLuhqtP7jdD8CftMk831qdE8BlIteSaNzD)
 
 ***
 
