@@ -2,20 +2,19 @@
 This repository provides a roadmap for learning machine learning, covering topics such as programming, linear algebra, calculus, statistics, data preprocessing, machine learning algorithms, and real-world applications. Each section provides an overview of the topic, resources for learning, and examples of real-world applications.
 
 ## Table of Contents
-[Introduction](#Introduction)
+- [Introduction](#Introduction)
+- [Basics of Programming](#Basics-of-Programming)
+- Linear Algebra and Calculus
+- Statistics and Probability
+- Fundamentals of Machine Learning
+- Data Preprocessing
+- Learn About Different Machine Learning Algorithms
+- Practice With Real-World Datasets
+- Experiment With Different Techniques
+- Keep Learning
+- Apply Machine Learning to Real-World Problems
+- Conclusion
 
-[Basics of Programming](#Basics-of-Programming)
-
-Linear Algebra and Calculus
-Statistics and Probability
-Fundamentals of Machine Learning
-Data Preprocessing
-Learn About Different Machine Learning Algorithms
-Practice With Real-World Datasets
-Experiment With Different Techniques
-Keep Learning
-Apply Machine Learning to Real-World Problems
-Conclusion
 ## Introduction
 Machine learning is a field of study that allows computers to learn from data and make predictions or decisions without being explicitly programmed. It has a wide range of applications, from image recognition and natural language processing to self-driving cars and recommender systems.
 
