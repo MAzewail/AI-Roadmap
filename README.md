@@ -46,7 +46,7 @@ Statistics and probability are important for understanding the performance of ma
 
 ***
 
-## Fundamentals of Machine Learning
+## :robot: Fundamentals of Machine Learning
 The fundamentals of machine learning include understanding the different types of machine learning, such as supervised, unsupervised, and reinforcement learning. You will also learn about training and testing data, overfitting and underfitting, and evaluation metrics.
 
 ***
