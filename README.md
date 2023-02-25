@@ -25,7 +25,7 @@ Programming is a fundamental skill for machine learning. In this section, you wi
 
 - I really recommend this [course](https://www.youtube.com/watch?v=avkSMuMHTI0&list=PLJLIYIKY1aBzR3KvoH30IZLABDs6ACPvc) to get start with Python :point_right: [python for everybody](https://www.youtube.com/watch?v=avkSMuMHTI0&list=PLJLIYIKY1aBzR3KvoH30IZLABDs6ACPvc)
 
-## Linear Algebra and Calculus
+## :calling: Linear Algebra and Calculus
 Linear algebra and calculus are essential mathematical concepts for machine learning. In this section, you will learn the basic concepts of linear algebra, such as vectors, matrices, and dot products, as well as calculus concepts such as derivatives and gradients.
 
 check this piece of art "[3blue1brown](https://www.youtube.com/@3blue1brown/playlists)" :thumbsup:
