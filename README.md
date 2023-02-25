@@ -56,6 +56,8 @@ The fundamentals of machine learning include understanding the different types o
 ## 📉 Data Preprocessing
 Data preprocessing is the process of cleaning and preparing data for machine learning. In this section, you will learn about common preprocessing techniques such as data cleaning, feature scaling, and feature selection.
 
+- Check the following playlist 👉 [Data Manipulation and Processing](https://www.youtube.com/watch?v=C8sPV25PCs0&list=PLea0WJq13cnCno6_21x__20J9kBvrwyog&index=46)
+
 ***
 
 ## 🧮 Learn About Different Machine Learning Algorithms
