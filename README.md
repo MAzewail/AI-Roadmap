@@ -8,10 +8,10 @@ This repository provides a roadmap for learning machine learning, covering topic
 - [Statistics and Probability](#book-Statistics-and-Probability)
 - [Fundamentals of Machine Learning](#robot-Fundamentals-of-Machine-Learning)
 - [Data Preprocessing](#bar_chart-Data-Preprocessing)
-- [Learn About Different Machine Learning Algorithms](#Learn-About-Different-Machine-Learning-Algorithms)
-- [Practice With Real-World Datasets](#Practice-With-Real-World-Datasets)
-- [Experiment With Different Techniques](#Experiment-With-Different-Techniques)
-- [Keep Learning](#Keep-Learning)
+- [Learn About Different Machine Learning Algorithms](#chart-Learn-About-Different-Machine-Learning-Algorithms)
+- [Practice With Real-World Datasets](#chart_with_upwards_trend-Practice-With-Real-World-Datasets)
+- [Experiment With Different Techniques](#1st_place_medal-Experiment-With-Different-Techniques)
+- [Keep Learning](#runner-Keep-Learning)
 - [Apply Machine Learning to Real-World Problems](#Apply-Machine-Learning-to-Real-World-Problems)
 - [Conclusion](#Conclusion)
 
@@ -61,7 +61,7 @@ Data preprocessing is the process of cleaning and preparing data for machine lea
 
 ***
 
-## 🧮 Learn About Different Machine Learning Algorithms
+## :chart: Learn About Different Machine Learning Algorithms
 There are many different machine learning algorithms, each with their own strengths and weaknesses. In this section, you will learn about decision trees, random forests, neural networks, and other common machine learning algorithms, I really recommend this channel [Coding Lane](https://www.youtube.com/@CodingLane) for learning all different ML algorithms.
 
 - [Logistic Regression (Classification)](https://www.youtube.com/playlist?list=PLuhqtP7jdD8Chy7QIo5U0zzKP8-emLdny)
@@ -70,17 +70,17 @@ There are many different machine learning algorithms, each with their own streng
 
 ***
 
-## ⛹️ Practice With Real-World Datasets
+## :chart_with_upwards_trend: Practice With Real-World Datasets
 Practicing with real-world datasets is essential for learning machine learning. In this section, you will learn about real-world datasets and how to use them for machine learning projects. You will also find examples of machine learning projects using real-world datasets.
 
 - Create an account on [Kaggel](https://www.kaggle.com/) and get started with
 
 ***
 
-## 🥇 Experiment With Different Techniques
+## :1st_place_medal: Experiment With Different Techniques
 Experimenting with different techniques is essential for improving the performance of machine learning models. In this section, you will learn about common techniques such as regularization, cross-validation, and ensemble methods.
 
 ***
 
-## ☑️ Keep Learning
+## :runner: Keep Learning
 Machine learning is a constantly evolving field, so it's important to stay up-to-date with the latest research and techniques.
