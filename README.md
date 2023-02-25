@@ -7,7 +7,7 @@ This repository provides a roadmap for learning machine learning, covering topic
 - [Linear Algebra and Calculus](#calling-Linear-Algebra-and-Calculus)
 - [Statistics and Probability](#book-Statistics-and-Probability)
 - [Fundamentals of Machine Learning](#robot-Fundamentals-of-Machine-Learning)
-- [Data Preprocessing](#📉--Data-Preprocessing)
+- [Data Preprocessing](#bar_chart-Data-Preprocessing)
 - [Learn About Different Machine Learning Algorithms](#Learn-About-Different-Machine-Learning-Algorithms)
 - [Practice With Real-World Datasets](#Practice-With-Real-World-Datasets)
 - [Experiment With Different Techniques](#Experiment-With-Different-Techniques)
@@ -54,7 +54,7 @@ The fundamentals of machine learning include understanding the different types o
 
 ***
 
-## 📉 Data Preprocessing
+## :bar_chart: Data Preprocessing
 Data preprocessing is the process of cleaning and preparing data for machine learning. In this section, you will learn about common preprocessing techniques such as data cleaning, feature scaling, and feature selection.
 
 - Check the following playlist 👉 [Data Manipulation and Processing](https://www.youtube.com/watch?v=C8sPV25PCs0&list=PLea0WJq13cnCno6_21x__20J9kBvrwyog&index=46)
