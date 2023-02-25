@@ -28,9 +28,11 @@ Programming is a fundamental skill for machine learning. In this section, you wi
 ## Linear Algebra and Calculus
 Linear algebra and calculus are essential mathematical concepts for machine learning. In this section, you will learn the basic concepts of linear algebra, such as vectors, matrices, and dot products, as well as calculus concepts such as derivatives and gradients.
 
-check this piece of art "[3blue1brown](https://www.youtube.com/@3blue1brown/playlists)"
+check this piece of art "[3blue1brown](https://www.youtube.com/@3blue1brown/playlists)" :thumbsup:
 
-- This [channel](https://www.youtube.com/@3blue1brown/playlists) would help you learning more about Linear Algebra and Calculus
+- This [channel](https://www.youtube.com/@3blue1brown/playlists) would help you learning more about [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) and [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- For better intuation about that calculus please check this playlist :point_right: [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- You also have to watch this playlist [Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## Statistics and Probability
 Statistics and probability are important for understanding the performance of machine learning models. In this section, you will learn the basics of descriptive statistics, probability distributions, hypothesis testing, and Bayesian inference.
