@@ -23,7 +23,7 @@ This roadmap provides a step-by-step guide to learning machine learning, from th
 ## Basics of Programming
 Programming is a fundamental skill for machine learning. In this section, you will learn the basics of programming, such as variables, data types, control structures, and functions. You will also learn how to use programming languages such as Python for machine learning.
 
-- I really recommend this [course](https://www.youtube.com/watch?v=avkSMuMHTI0&list=PLJLIYIKY1aBzR3KvoH30IZLABDs6ACPvc) to get start with Python :point_right: [python for everyboady](https://www.youtube.com/watch?v=avkSMuMHTI0&list=PLJLIYIKY1aBzR3KvoH30IZLABDs6ACPvc)
+- I really recommend this [course](https://www.youtube.com/watch?v=avkSMuMHTI0&list=PLJLIYIKY1aBzR3KvoH30IZLABDs6ACPvc) to get start with Python :point_right: [python for everybody](https://www.youtube.com/watch?v=avkSMuMHTI0&list=PLJLIYIKY1aBzR3KvoH30IZLABDs6ACPvc)
 
 ## Linear Algebra and Calculus
 Linear algebra and calculus are essential mathematical concepts for machine learning. In this section, you will learn the basic concepts of linear algebra, such as vectors, matrices, and dot products, as well as calculus concepts such as derivatives and gradients.
